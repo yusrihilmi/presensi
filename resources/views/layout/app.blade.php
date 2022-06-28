@@ -31,7 +31,7 @@
 
                     <!-- Branding Image -->
                     <a class="navbar-brand" href="{{ route('home') }}">
-                        Kanjul Tai
+                        Tax Center
                     </a>
                 </div>
 
