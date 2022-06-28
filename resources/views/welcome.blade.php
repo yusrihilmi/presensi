@@ -16,7 +16,7 @@
 
                                 @if ($errors->has('email'))
                                     <span class="help-block">
-                                        <strong>{{ $errors->first('email') }}</strong>
+                                        <strong>Email address atau Password salah</strong>
                                     </span>
                                 @endif
                             </div>
@@ -28,7 +28,7 @@
 
                                 @if ($errors->has('password'))
                                     <span class="help-block">
-                                        <strong>{{ $errors->first('password') }}</strong>
+                                        <strong>Email address atau Password salah</strong>
                                     </span>
                                 @endif
                             </div>
